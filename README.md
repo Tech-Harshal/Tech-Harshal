@@ -42,16 +42,24 @@
 
 ## 📊 GitHub Stats
 
-> Coming Soon — Custom Animated Stats (Built from Scratch)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Harshal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Harshal&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Harshal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🖥️ Projects
 
-
-
-
-
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **Finsathi** | An AI-powered personal finance assistant that helps users manage expenses, budgeting, and financial planning with intelligent insights. | [View Project](https://github.com/Tech-Harshal/finsathi) |
+| **Compliai** | An AI-driven compliance platform designed to simplify regulatory checks, document validation, and compliance workflows. | [View Project](https://github.com/Tech-Harshal/complilai) |
+| **Clutch AI** | An AI application focused on intelligent automation and productivity, leveraging modern AI models to streamline everyday tasks. | [View Project](https://github.com/Tech-Harshal/clutch-ai) |
+| **GraamAI** | A smart agriculture platform that uses AI to assist farmers with crop recommendations, disease detection, and farming insights. | [View Project](https://github.com/Tech-Harshal/GraamAI) |
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Tech-Harshal
