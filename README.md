@@ -1,7 +1,30 @@
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="40%">
+
+<img src="./id-card.gif" width="260">
+
+</td>
+
+<td align="center" width="60%">
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+HARSHAL...;%3E+WELCOME+TO+MY+GITHUB;%3E+CS+STUDENT;%3E+C%2B%2B+LEARNER;%3E+BUILDING+THE+FUTURE...;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=38&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=%3E+BOOTING+HARSHAL_OS...;%3E+IDENTITY%3A+HARSHAL+VERMA;%3E+ROLE%3A+CS+STUDENT;%3E+SKILL%3A+C%2B%2B;%3E+STATUS%3A+BUILDING;%3E+SYSTEM+READY+%5BOK%5D" alt="Hacker Typing Animation">
 </p>
 
+<br><br>
+
+<i>Not doing it for show. Just turning potential into proof of what I'm capable of.</i>
+
+</td>
+
+</tr>
+</table>
+
+</div> 
 <p align="center">
   <b>Computer Science Student</b> • <b>C++ Learner</b> • <b>Future Software Engineer</b> • <b>Full Stack Developer</b>• <b>Web Developer</b>
 </p>
