@@ -12,7 +12,7 @@
 <td align="center" width="60%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=38&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=%3E+BOOTING+HARSHAL_OS...;%3E+IDENTITY%3A+HARSHAL+VERMA;%3E+ROLE%3A+CS+STUDENT;%3E+SKILL%3A+C%2B%2B;%3E+STATUS%3A+BUILDING;%3E+SYSTEM+READY+%5BOK%5D" alt="Hacker Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=38&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=%3E+BOOTING+HARSHAL...;%3E+IDENTITY%3A+HARSHAL+VERMA;%3E+ROLE%3A+CS+STUDENT;%3E+SKILL%3A+C%2B%2B;%3E+STATUS%3A+BUILDING;%3E+SYSTEM+READY+%5BOK%5D" alt="Hacker Fined Pro Typing Animation">
 </p>
 
 <br><br>
@@ -71,11 +71,6 @@
 # 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tech-Harshal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Harshal&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-
 </div>
 
 <br>
@@ -87,9 +82,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Harshal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
- #📊 CONTRIBUTION GRAPH
+ 
+
+ ## 📊 CONTRIBUTION GRAPH
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Harshal&theme=github-compact&hide_border=true" /> </div>
 
 ## 🖥️ Projects
