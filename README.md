@@ -21,7 +21,7 @@
 ## 🎯 2026 Goals
 
 - ✅ Master C++
-- 🔄 Solve 300+ DSA Problems
+- 🔄 Solve 200+ DSA Problems
 - 🚀 Build Real-World Projects
 - 🌍 Learn Full-Stack Development
 - 🤝 Contribute to Open Source
