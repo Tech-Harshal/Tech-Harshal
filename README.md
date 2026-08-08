@@ -96,10 +96,10 @@
 
 | Project | Description | Repository |
 |---------|-------------|------------|
-| **Finsathi** | An AI-powered personal finance assistant that helps users manage expenses, budgeting, and financial planning with intelligent insights. | [View Project](https://github.com/Tech-Harshal/finsathi) |
-| **Compliai** | An AI-driven compliance platform designed to simplify regulatory checks, document validation, and compliance workflows. | [View Project](https://github.com/Tech-Harshal/complilai) |
-| **Clutch AI** | An AI application focused on intelligent automation and productivity, leveraging modern AI models to streamline everyday tasks. | [View Project](https://github.com/Tech-Harshal/clutch-ai) |
-| **GraamAI** | A smart agriculture platform that uses AI to assist farmers with crop recommendations, disease detection, and farming insights. | [View Project](https://github.com/Tech-Harshal/GraamAI) |
+| **Finsathi** |A personal finance assistant that uses intelligence helps people deal with money issues. It assists users with managing their expenses making a budget and planning their finance with really helpful ideas. The personal finance assistant is a tool that provides insights to help users with their personal finance. | [View Project](https://github.com/Tech-Harshal/finsathi) |
+| **Compliai** |This  AI-driven compliance platform is made to help people follow the rules and regulations. It makes it easier to check if everything is okay and if all the documents are valid. The platform also helps with the work that needs to be done to make sure everyone is following the rules. | [View Project](https://github.com/Tech-Harshal/complilai) |
+| **Clutch AI** | This application uses intelligence to make things easier for people. It helps with automation and productivity. The application uses artificial intelligence models to make everyday tasks simpler. Everyday tasks are made easier, with the application. | [View Project](https://github.com/Tech-Harshal/clutch-ai) |
+| **GraamAI** | This platform for farming is really cool because it uses intelligence to help farmers. The farmers get advice on what crops to plant. The platform can also find diseases in the crops. It gives farmers a lot of information about farming. The platform is like a helper for farmers. It is based on smart agriculture. It uses intelligence to make farming easier, for the farmers. | [View Project](https://github.com/Tech-Harshal/GraamAI) |
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Tech-Harshal
