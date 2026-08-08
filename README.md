@@ -45,17 +45,28 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Harshal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Harshal&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tech-Harshal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Harshal&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tech-Harshal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Harshal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
----
+ #📊 CONTRIBUTION GRAPH
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Harshal&theme=github-compact&hide_border=true" /> </div>
 
 ## 🖥️ Projects
