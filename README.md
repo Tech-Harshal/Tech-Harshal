@@ -26,7 +26,7 @@
 
 </div> 
 <p align="center">
-  <b>Computer Science Student</b> • <b>C++ Learner</b> • <b>Future Software Engineer</b> • <b>Full Stack Developer</b>• <b>Web Developer</b>
+  <b>Computer Science Student</b> • <b>C++ Learner</b> • <b> Software Engineer</b> • <b>Full Stack Developer</b>• <b>Web Developer</b>
 </p>
 
 ---
