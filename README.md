@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harshal+Verma;Computer+Science+Student;Learning+C%2B%2B;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+HARSHAL...;%3E+WELCOME+TO+MY+GITHUB;%3E+CS+STUDENT;%3E+C%2B%2B+LEARNER;%3E+BUILDING+THE+FUTURE...;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,9 +29,14 @@
 ---
 
 ## 🛠️ Tech Stack
+## Languages
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-0078C8?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-3B4F73?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML-EF512B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/C-0078C8?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,6 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Harshal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Harshal&theme=github-compact&hide_border=true" /> </div>
 
 ## 🖥️ Projects
 
